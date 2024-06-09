@@ -6,13 +6,12 @@ Instructions:
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
 Questions:
-Define Software Engineering: hdgdhy hysjhsh hvhnvnh
+Define Software Engineering:  
+hdgdhy hysjhsh hvhnvnh
 
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
-jhbdhjdbhd
-bdvd
-dd
+
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
 
