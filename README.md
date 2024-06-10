@@ -7,19 +7,18 @@ Answer the following questions based on your understanding of software engineeri
 
 Questions:
 Define Software Engineering:  
-- Answer
 Software engineering is the process of using engineering techniques such as principles, methods, and tools to create and maintain good quality software. It includes designing, developing, testing, launching, and looking after software products.
 
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):  
-- Answer  
+  
 - Software engineering is the process of using engineering techniques such as principles, methods, and tools to create and maintain good quality software. It includes designing, developing, testing, launching, and looking after software products. 
 - Software engineering and traditional programming are like organized teamwork versus solo brainstorming. In software engineering, teams follow structured methods like Agile or Waterfall, working together on big projects with clear goals and quality standards. They thoroughly test and document their work, ensuring the software runs smoothly. On the other hand, traditional programming is more like quick sketches, often done individually without formal plans or extensive testing. Software engineering is like building a puzzle where all the pieces fit together perfectly, creating a smooth and efficient system. Traditional programming is more like trying to solve puzzles with random pieces, which can lead to confusion and inefficiencies in the final product.  
 
 - The Software Development Life Cycle (SDLC) is crucial for delivering top-notch software that satisfies user requirements, stays within budget and time limits, and stays compatible with changing technology platforms. This cycle encompasses phases like Requirements Gathering, Design, Implementation, Testing, Deployment, and Maintenance, ensuring a systematic approach to software development and upkeep.
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.  
-- Answer  
+  
 The phases of the Software Development Life Cycle includes:   
 - Requirements Gathering: Collecting and documenting what users and the system need.
 - Design: Planning how the software will look and function, from big ideas to detailed designs.
